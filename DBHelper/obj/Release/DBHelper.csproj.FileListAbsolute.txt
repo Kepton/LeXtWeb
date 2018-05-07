@@ -1,0 +1,14 @@
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\DBHelper.dll.config
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\DBHelper.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\DBHelper.pdb
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\EntityFramework.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\EntityFramework.SqlServer.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\System.Data.SQLite.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\System.Data.SQLite.EF6.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\System.Data.SQLite.Linq.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\EntityFramework.xml
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\EntityFramework.SqlServer.xml
+G:\Kepton\Code\LeXtWeb\DBHelper\bin\Release\System.Data.SQLite.xml
+G:\Kepton\Code\LeXtWeb\DBHelper\obj\Release\DBHelper.csprojResolveAssemblyReference.cache
+G:\Kepton\Code\LeXtWeb\DBHelper\obj\Release\DBHelper.dll
+G:\Kepton\Code\LeXtWeb\DBHelper\obj\Release\DBHelper.pdb

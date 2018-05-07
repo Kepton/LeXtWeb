@@ -1,2 +1,0 @@
-# LeXtWeb
-LEXT

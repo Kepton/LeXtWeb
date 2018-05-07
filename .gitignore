@@ -1,3 +1,5 @@
 
 .vs/cpts_768_bfy/v14/.suo
 .vs/config/applicationhost.config
+DBHelper/bin/Debug/DBHelper.dll
+*.config
